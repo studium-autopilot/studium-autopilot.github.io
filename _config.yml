@@ -1,0 +1,5 @@
+title: Studium Autopilot
+description: Unterlagen, Termine, Studienverlauf und Lernen für den B.Sc. Economics and Business Administration in Tübingen
+lang: de
+exclude:
+  - README.md
